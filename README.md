@@ -258,7 +258,3 @@ Essas normas impactam diretamente o compartilhamento de dados sensíveis em proj
   </a>
 </div>
 
-> 🔗 Fontes:  
-> [U.S. Department of State](https://brand.america.gov/document/542773/collection/161261) |  
-> [U.S. Department of Commerce](https://www.commerce.gov/ogc/symbols-department-commerce)
-
