@@ -1,9 +1,11 @@
 <div style="width: 220px;">
-  <!-- Bandeira americana -->
-  <img src="https://www.rdolsonmfg.com/pub/photo/AmericanFlag_FINAL.png" 
+  <!-- Bandeira americana substituída -->
+  <img src="https://cdn-assets-cloud.frontify.com/s3/frontify-cloud-files-us/eyJwYXRoIjoiZnJvbnRpZnlcL2ZpbGVcLzduNzdKd0ZLYWgzM2pZWUZESmFyLnN2ZyJ9:frontify:si0U7i3iQVSP7ajbwZHwEH_gdij1YOGZHyJqLQxyPFk?width=2400" 
        alt="American Flag" 
        width="100" 
-       style="border-radius: 50px; border: 3px solid #0077B6; display: block;"/>
+       style="border-radius: 50px; border: 3px solid #0077B6; display: block;" />
+</div>
+
 
   <!-- Letreiro animado "United States" -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0077B6&center=false&width=220&lines=United+States" 
