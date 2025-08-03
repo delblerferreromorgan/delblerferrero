@@ -26,12 +26,24 @@
 
 <hr>
   
-  <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-    <h2 style="margin: 0;">🚀 Professional Portfolio</h2>
-    <a href="https://www.credly.com/badges/c3f1d820-5203-4e92-a98a-6079707563cb/public_url" target="_blank" rel="noopener noreferrer">
-      <img src="https://images.credly.com/size/220x220/images/604d3f13-0f4c-402b-8265-3ecad938435a/blob" alt="Credly Badge" width="100" height="100" style="border-radius: 12px;"/> NASA Open Science 101
-    </a>
-  </div>
+ <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; margin: 20px 0;">
+  <h2 style="width: 100%; text-align: center; margin-bottom: 10px;">🚀 Professional Portfolio</h2>
+
+  <!-- NASA Open Science Badge -->
+  <a href="https://www.credly.com/badges/c3f1d820-5203-4e92-a98a-6079707563cb/public_url" target="_blank" rel="noopener noreferrer">
+    <img src="https://images.credly.com/size/220x220/images/604d3f13-0f4c-402b-8265-3ecad938435a/blob" alt="NASA Open Science 101" width="100" height="100" style="border-radius: 12px;" />
+  </a>
+
+  <!-- Department of State Seal -->
+  <a href="https://brand.america.gov/document/542773/collection/161261" target="_blank" rel="noopener noreferrer">
+    <img src="https://brand.america.gov/api/assets/542774/primary.svg" alt="U.S. Department of State Seal" width="100" height="100" style="border-radius: 12px;" />
+  </a>
+
+  <!-- Department of Commerce Seal -->
+  <a href="https://www.commerce.gov/ogc/symbols-department-commerce" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.commerce.gov/themes/custom/commerce/logo.svg" alt="U.S. Department of Commerce Seal" width="100" height="100" style="border-radius: 12px;" />
+  </a>
+</div>
 
   <hr>
 
@@ -236,20 +248,6 @@ gantt
     In Progress           :active,    ra, 2025-02-01, 2025-10-31
 ```
 </details>
-
-
-## 🛡️ Compliance e Regulamentações
-
-Durante o desenvolvimento de projetos científicos, é essencial conhecer e respeitar as leis e regulamentações dos Estados Unidos, como:
-
-- **ITAR (International Traffic in Arms Regulations)**
-- **EAR (Export Administration Regulations)**
-- **HIPAA, CUI e outras normas específicas por agência**
-
-Essas normas impactam diretamente o compartilhamento de dados sensíveis em projetos de ciência aberta.
-
-<div align="center">
-  <a href="https://brand.america.gov/document/542773/collection/161261" target="_blank">
     <img src="https://brand.america.gov/files/2021/10/Seal-of-the-Department-of-State.png" width="100" alt="U.S. Department of State Seal"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
