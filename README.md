@@ -35,7 +35,7 @@
     </a>
   </div>
  <a href="https://www.credly.com/badges/0082dfec-c577-467d-bf2d-2f57625e4f50/public_url" target="_blank" rel="noopener noreferrer">
-      <img src="https://images.credly.com/images/a9cb9c79-8ed0-4626-9f5d-953b3e6c2597/blob" alt="Credly Badge" width="100" height="100" style="border-radius: 12px;"/> NASA Open Science 101
+      <img src="https://images.credly.com/images/a9cb9c79-8ed0-4626-9f5d-953b3e6c2597/blob" alt="Credly Badge" width="100" height="100" style="border-radius: 12px;"/> NASA Open Science Essentials
     </a>
   </div>
   <hr>
