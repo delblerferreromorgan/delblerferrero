@@ -35,7 +35,7 @@
   </a>
 
   <!-- Department of State Seal -->
-  <a href="https://brand.america.gov/document/542773/collection/161261" target="_blank" rel="noopener noreferrer">
+  <a href="https:[//brand.america.gov/document/542773/collection/161261](https://cdn-assets-cloud.frontify.com/s3/frontify-cloud-files-us/eyJwYXRoIjoiZnJvbnRpZnlcL2ZpbGVcL0xvUnp6RG5kdDkyZUFVekp4cnVyLnBuZyJ9:frontify:f1gcNRbBpFpCnqnexcmJO58J-8mrPTZZeCuFW2BlvxU?width=800)" target="_blank" rel="noopener noreferrer">
     <img src="https://brand.america.gov/api/assets/542774/primary.svg" alt="U.S. Department of State Seal" width="100" height="100" style="border-radius: 12px;" />
   </a>
 
