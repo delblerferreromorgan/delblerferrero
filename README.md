@@ -238,25 +238,27 @@ gantt
 </details>
 
 
-<div style="display: flex; gap: 30px; align-items: center; justify-content: center; margin-top: 20px;">
+## 🛡️ Compliance e Regulamentações
 
-  <!-- Selo do Departamento de Estado -->
-  <div style="text-align: center;">
-    <img src="https://brand.america.gov/files/2021/10/Seal-of-the-Department-of-State.png" 
-         alt="U.S. Department of State Seal" 
-         width="120" 
-         style="border: 2px solid #003366; border-radius: 12px;">
-    <p style="font-size: 14px;">U.S. Department of State</p>
-  </div>
+Durante o desenvolvimento de projetos científicos, é essencial conhecer e respeitar as leis e regulamentações dos Estados Unidos, como:
 
-  <!-- Selo do Departamento de Comércio -->
-  <div style="text-align: center;">
-    <img src="https://www.commerce.gov/themes/custom/commerce/assets/images/seal.png" 
-         alt="U.S. Department of Commerce Seal" 
-         width="120" 
-         style="border: 2px solid #003366; border-radius: 12px;">
-    <p style="font-size: 14px;">U.S. Department of Commerce</p>
-  </div>
+- **ITAR (International Traffic in Arms Regulations)**
+- **EAR (Export Administration Regulations)**
+- **HIPAA, CUI e outras normas específicas por agência**
 
+Essas normas impactam diretamente o compartilhamento de dados sensíveis em projetos de ciência aberta.
+
+<div align="center">
+  <a href="https://brand.america.gov/document/542773/collection/161261" target="_blank">
+    <img src="https://brand.america.gov/files/2021/10/Seal-of-the-Department-of-State.png" width="100" alt="U.S. Department of State Seal"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.commerce.gov/ogc/symbols-department-commerce" target="_blank">
+    <img src="https://www.commerce.gov/themes/custom/commerce/assets/images/seal.png" width="100" alt="U.S. Department of Commerce Seal"/>
+  </a>
 </div>
+
+> 🔗 Fontes:  
+> [U.S. Department of State](https://brand.america.gov/document/542773/collection/161261) |  
+> [U.S. Department of Commerce](https://www.commerce.gov/ogc/symbols-department-commerce)
 
