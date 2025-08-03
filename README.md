@@ -2,7 +2,7 @@
   <!-- Bandeira americana substituída -->
   <img src="https://cdn-assets-cloud.frontify.com/s3/frontify-cloud-files-us/eyJwYXRoIjoiZnJvbnRpZnlcL2ZpbGVcLzduNzdKd0ZLYWgzM2pZWUZESmFyLnN2ZyJ9:frontify:si0U7i3iQVSP7ajbwZHwEH_gdij1YOGZHyJqLQxyPFk?width=2400" 
        alt="American Flag" 
-       width="100" 
+       width="180" 
        style="border-radius: 50px; border: 3px solid #0077B6; display: block;" />
 </div>
 
