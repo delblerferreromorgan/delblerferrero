@@ -236,3 +236,27 @@ gantt
     In Progress           :active,    ra, 2025-02-01, 2025-10-31
 ```
 </details>
+
+
+<div style="display: flex; gap: 30px; align-items: center; justify-content: center; margin-top: 20px;">
+
+  <!-- Selo do Departamento de Estado -->
+  <div style="text-align: center;">
+    <img src="https://brand.america.gov/files/2021/10/Seal-of-the-Department-of-State.png" 
+         alt="U.S. Department of State Seal" 
+         width="120" 
+         style="border: 2px solid #003366; border-radius: 12px;">
+    <p style="font-size: 14px;">U.S. Department of State</p>
+  </div>
+
+  <!-- Selo do Departamento de Comércio -->
+  <div style="text-align: center;">
+    <img src="https://www.commerce.gov/themes/custom/commerce/assets/images/seal.png" 
+         alt="U.S. Department of Commerce Seal" 
+         width="120" 
+         style="border: 2px solid #003366; border-radius: 12px;">
+    <p style="font-size: 14px;">U.S. Department of Commerce</p>
+  </div>
+
+</div>
+
